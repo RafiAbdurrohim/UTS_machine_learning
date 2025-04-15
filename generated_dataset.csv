@@ -1,0 +1,101 @@
+patient_id,age,gender,medical_condition,drug_name,drug_category,dosage_form,prescribed_dose,frequency,schedule,duration,timestamp,status,notification_sent,response,temperature,humidity,distance
+P-020,43,Female,Hypertension,Lisinopril,Antihypertensive,Tablet,374 mg,3x sehari,"Pagi, Siang, Malam",48,2023-06-27 08:02:00,Taken,No,Confirmed,28.9,58,16.2
+P-019,37,Male,Migraine,Sumatriptan,Antimigraine,Capsule,463 mg,PRN,-,133,2023-06-11 04:34:00,Not Taken,Yes,Dismissed,28.6,55,12.5
+P-003,88,Male,Arthritis,Ibuprofen,Analgesic,Capsule,66 mg,3x sehari,Siang,130,2023-05-08 20:09:00,Not Taken,Yes,No Response,25.7,50,11.0
+P-005,25,Male,Migraine,Sumatriptan,Antimigraine,Liquid,214 mg,2x sehari,Malam,162,2023-06-04 13:57:00,Taken,No,Confirmed,27.6,42,4.2
+P-001,69,Male,Heart Disease,Digoxin,Cardiac Glycoside,Liquid,285 mg,1x sehari,"Pagi, Malam",96,2023-06-17 08:30:00,Not Taken,Yes,No Response,28.1,58,6.5
+P-014,52,Female,Asthma,Salbutamol,Bronchodilator,Liquid,36 mg,2x sehari,Pagi,123,2023-05-15 17:15:00,Not Taken,Yes,No Response,29.7,46,6.5
+P-001,69,Male,Migraine,Sumatriptan,Antimigraine,Liquid,229 mg,1x sehari,Malam,101,2023-06-10 22:53:00,Not Taken,Yes,Dismissed,25.0,57,18.1
+P-006,89,Female,Arthritis,Ibuprofen,Analgesic,Tablet,462 mg,3x sehari,Pagi,142,2023-06-28 07:18:00,Taken,No,Confirmed,25.4,49,6.8
+P-016,78,Female,Asthma,Salbutamol,Bronchodilator,Capsule,449 mg,PRN,-,177,2023-05-08 10:45:00,Taken,No,Confirmed,24.5,47,17.2
+P-006,89,Female,Heart Disease,Digoxin,Cardiac Glycoside,Liquid,424 mg,1x sehari,Malam,38,2023-05-16 00:58:00,Not Taken,Yes,Confirmed,25.2,58,18.5
+P-003,88,Male,Diabetes,Metformin,Antidiabetic,Liquid,112 mg,PRN,-,154,2023-05-08 01:30:00,Not Taken,Yes,Confirmed,28.5,56,18.2
+P-006,89,Female,Hypertension,Lisinopril,Antihypertensive,Liquid,401 mg,PRN,-,70,2023-06-18 11:55:00,Not Taken,Yes,No Response,24.1,45,5.4
+P-002,50,Female,Asthma,Salbutamol,Bronchodilator,Tablet,52 mg,PRN,-,37,2023-06-02 00:44:00,Not Taken,Yes,No Response,28.5,48,19.0
+P-017,60,Male,Migraine,Sumatriptan,Antimigraine,Capsule,83 mg,1x sehari,"Pagi, Malam",172,2023-06-01 03:26:00,Not Taken,Yes,Dismissed,30.0,51,16.9
+P-005,25,Male,Arthritis,Ibuprofen,Analgesic,Capsule,360 mg,2x sehari,Pagi,155,2023-05-15 13:18:00,Not Taken,Yes,Confirmed,27.1,44,4.8
+P-001,69,Male,Diabetes,Metformin,Antidiabetic,Capsule,196 mg,2x sehari,Pagi,20,2023-06-19 06:05:00,Not Taken,Yes,Confirmed,26.2,49,9.7
+P-003,88,Male,Heart Disease,Digoxin,Cardiac Glycoside,Tablet,119 mg,PRN,-,180,2023-06-04 08:34:00,Not Taken,Yes,No Response,24.2,44,2.4
+P-020,43,Female,Diabetes,Metformin,Antidiabetic,Liquid,184 mg,PRN,-,121,2023-05-16 12:17:00,Taken,No,Confirmed,24.8,51,8.5
+P-010,29,Female,Hypertension,Lisinopril,Antihypertensive,Tablet,40 mg,3x sehari,"Pagi, Siang, Malam",141,2023-05-16 16:42:00,Taken,No,Confirmed,27.2,50,7.3
+P-012,81,Female,Migraine,Sumatriptan,Antimigraine,Tablet,345 mg,3x sehari,Pagi,74,2023-06-28 01:43:00,Taken,No,Confirmed,26.2,59,16.9
+P-016,78,Female,Diabetes,Metformin,Antidiabetic,Liquid,219 mg,2x sehari,"Pagi, Malam",36,2023-05-22 07:10:00,Not Taken,Yes,Dismissed,27.2,54,18.2
+P-001,69,Male,Hypertension,Lisinopril,Antihypertensive,Liquid,11 mg,PRN,-,154,2023-05-06 08:15:00,Not Taken,Yes,No Response,29.8,57,2.3
+P-019,37,Male,Migraine,Sumatriptan,Antimigraine,Tablet,347 mg,3x sehari,Pagi,105,2023-05-17 07:36:00,Taken,No,Confirmed,29.4,58,4.8
+P-008,72,Female,Diabetes,Metformin,Antidiabetic,Liquid,138 mg,1x sehari,Pagi,175,2023-06-28 18:17:00,Not Taken,Yes,Confirmed,26.0,54,14.2
+P-004,41,Female,Hypertension,Lisinopril,Antihypertensive,Tablet,236 mg,1x sehari,Malam,98,2023-06-11 02:31:00,Not Taken,Yes,Dismissed,24.4,56,11.1
+P-007,34,Male,Hypertension,Lisinopril,Antihypertensive,Capsule,227 mg,PRN,-,151,2023-05-09 21:35:00,Not Taken,Yes,No Response,24.2,41,10.1
+P-001,69,Male,Arthritis,Ibuprofen,Analgesic,Capsule,286 mg,3x sehari,Pagi,109,2023-05-25 08:19:00,Taken,No,Confirmed,24.0,59,14.2
+P-001,69,Male,Diabetes,Metformin,Antidiabetic,Tablet,220 mg,2x sehari,Siang,151,2023-06-04 06:22:00,Taken,No,Confirmed,27.8,53,10.8
+P-007,34,Male,Depression,Sertraline,Antidepressant,Capsule,244 mg,2x sehari,Pagi,139,2023-05-14 20:39:00,Not Taken,Yes,Confirmed,25.7,46,6.6
+P-007,34,Male,Arthritis,Ibuprofen,Analgesic,Tablet,420 mg,PRN,-,121,2023-05-14 21:15:00,Taken,No,Confirmed,27.1,49,16.8
+P-005,25,Male,Hypertension,Lisinopril,Antihypertensive,Tablet,101 mg,1x sehari,"Pagi, Siang, Malam",93,2023-06-16 22:41:00,Not Taken,Yes,No Response,29.2,45,16.5
+P-018,77,Female,Infection,Amoxicillin,Antibiotic,Capsule,81 mg,1x sehari,Siang,144,2023-06-14 07:30:00,Not Taken,Yes,No Response,28.3,45,17.4
+P-019,37,Male,Infection,Amoxicillin,Antibiotic,Liquid,398 mg,3x sehari,"Pagi, Malam",176,2023-05-11 06:16:00,Taken,No,Confirmed,24.8,53,5.8
+P-014,52,Female,Migraine,Sumatriptan,Antimigraine,Liquid,305 mg,PRN,-,23,2023-06-11 12:08:00,Not Taken,Yes,No Response,24.8,60,5.9
+P-016,78,Female,Diabetes,Metformin,Antidiabetic,Liquid,169 mg,2x sehari,"Pagi, Malam",126,2023-05-29 01:04:00,Not Taken,Yes,Dismissed,29.3,45,17.6
+P-004,41,Female,Depression,Sertraline,Antidepressant,Capsule,228 mg,PRN,-,169,2023-05-15 23:40:00,Taken,No,Confirmed,24.6,52,16.7
+P-013,71,Male,Heart Disease,Digoxin,Cardiac Glycoside,Liquid,487 mg,3x sehari,"Pagi, Malam",95,2023-06-17 20:20:00,Not Taken,Yes,Confirmed,29.6,49,17.8
+P-002,50,Female,Depression,Sertraline,Antidepressant,Liquid,157 mg,1x sehari,Pagi,125,2023-05-28 13:38:00,Taken,No,Confirmed,29.5,55,19.1
+P-018,77,Female,Heart Disease,Digoxin,Cardiac Glycoside,Capsule,463 mg,PRN,-,145,2023-06-27 17:25:00,Taken,No,Confirmed,24.4,42,4.9
+P-010,29,Female,Depression,Sertraline,Antidepressant,Liquid,396 mg,3x sehari,"Pagi, Malam",47,2023-06-07 00:10:00,Taken,No,Confirmed,26.8,50,3.8
+P-007,34,Male,Diabetes,Metformin,Antidiabetic,Liquid,152 mg,2x sehari,Pagi,87,2023-05-07 04:02:00,Not Taken,Yes,Confirmed,29.4,58,11.4
+P-009,39,Male,Migraine,Sumatriptan,Antimigraine,Tablet,89 mg,1x sehari,Pagi,155,2023-06-06 09:39:00,Not Taken,Yes,Confirmed,29.0,44,14.8
+P-020,43,Female,Asthma,Salbutamol,Bronchodilator,Capsule,228 mg,PRN,-,134,2023-05-18 00:49:00,Taken,No,Confirmed,25.2,50,7.2
+P-015,70,Male,Hypertension,Lisinopril,Antihypertensive,Capsule,405 mg,2x sehari,Malam,96,2023-05-15 18:16:00,Taken,No,Confirmed,24.1,59,14.8
+P-020,43,Female,Infection,Amoxicillin,Antibiotic,Capsule,462 mg,3x sehari,Siang,15,2023-06-04 19:31:00,Taken,No,Confirmed,25.8,51,14.1
+P-013,71,Male,Arthritis,Ibuprofen,Analgesic,Capsule,139 mg,3x sehari,Pagi,87,2023-05-29 01:33:00,Not Taken,Yes,Confirmed,28.7,52,6.8
+P-003,88,Male,Infection,Amoxicillin,Antibiotic,Liquid,30 mg,PRN,-,10,2023-05-02 22:42:00,Not Taken,Yes,Dismissed,28.5,44,18.3
+P-014,52,Female,Arthritis,Ibuprofen,Analgesic,Liquid,180 mg,PRN,-,36,2023-05-29 08:46:00,Not Taken,Yes,Confirmed,24.2,46,5.4
+P-005,25,Male,Heart Disease,Digoxin,Cardiac Glycoside,Liquid,35 mg,2x sehari,"Pagi, Malam",149,2023-05-21 08:15:00,Taken,No,Confirmed,27.3,58,3.3
+P-001,69,Male,Migraine,Sumatriptan,Antimigraine,Tablet,150 mg,PRN,-,112,2023-05-11 05:13:00,Taken,No,Confirmed,24.1,42,17.9
+P-010,29,Female,Migraine,Sumatriptan,Antimigraine,Capsule,31 mg,1x sehari,Siang,45,2023-05-29 16:42:00,Taken,No,Confirmed,27.1,53,10.4
+P-003,88,Male,Infection,Amoxicillin,Antibiotic,Tablet,181 mg,PRN,-,139,2023-06-12 04:21:00,Taken,No,Confirmed,28.1,44,19.2
+P-012,81,Female,Diabetes,Metformin,Antidiabetic,Liquid,282 mg,1x sehari,Siang,28,2023-05-03 00:50:00,Taken,No,Confirmed,25.6,56,12.1
+P-008,72,Female,Asthma,Salbutamol,Bronchodilator,Capsule,395 mg,3x sehari,Pagi,163,2023-05-10 03:32:00,Taken,No,Confirmed,29.5,58,3.7
+P-002,50,Female,Arthritis,Ibuprofen,Analgesic,Tablet,171 mg,2x sehari,"Pagi, Malam",61,2023-06-14 00:19:00,Not Taken,Yes,No Response,25.6,48,8.3
+P-019,37,Male,Arthritis,Ibuprofen,Analgesic,Capsule,77 mg,3x sehari,Pagi,150,2023-05-29 16:23:00,Taken,No,Confirmed,27.7,59,17.3
+P-010,29,Female,Infection,Amoxicillin,Antibiotic,Tablet,225 mg,PRN,-,131,2023-05-27 15:12:00,Not Taken,Yes,No Response,24.8,53,14.6
+P-013,71,Male,Migraine,Sumatriptan,Antimigraine,Liquid,498 mg,2x sehari,Malam,16,2023-05-02 05:45:00,Taken,No,Confirmed,29.5,60,5.3
+P-019,37,Male,Heart Disease,Digoxin,Cardiac Glycoside,Tablet,388 mg,2x sehari,Malam,149,2023-06-19 02:03:00,Not Taken,Yes,Dismissed,27.7,55,4.6
+P-005,25,Male,Migraine,Sumatriptan,Antimigraine,Capsule,359 mg,2x sehari,"Pagi, Malam",88,2023-05-01 19:19:00,Taken,No,Confirmed,29.5,51,17.5
+P-006,89,Female,Hypertension,Lisinopril,Antihypertensive,Capsule,371 mg,PRN,-,65,2023-06-27 01:08:00,Taken,No,Confirmed,26.4,45,6.1
+P-001,69,Male,Asthma,Salbutamol,Bronchodilator,Tablet,55 mg,2x sehari,Pagi,110,2023-06-22 11:06:00,Not Taken,Yes,Dismissed,25.9,57,20.0
+P-016,78,Female,Arthritis,Ibuprofen,Analgesic,Tablet,128 mg,PRN,-,91,2023-06-30 02:25:00,Not Taken,Yes,No Response,25.0,47,9.1
+P-010,29,Female,Arthritis,Ibuprofen,Analgesic,Capsule,130 mg,1x sehari,Siang,172,2023-06-26 16:19:00,Not Taken,Yes,Dismissed,27.4,56,11.6
+P-009,39,Male,Migraine,Sumatriptan,Antimigraine,Capsule,435 mg,1x sehari,Siang,23,2023-05-25 00:38:00,Not Taken,Yes,Dismissed,25.1,59,10.6
+P-002,50,Female,Migraine,Sumatriptan,Antimigraine,Capsule,332 mg,1x sehari,Pagi,84,2023-05-12 07:38:00,Taken,No,Confirmed,25.1,51,5.3
+P-001,69,Male,Depression,Sertraline,Antidepressant,Tablet,397 mg,1x sehari,Malam,136,2023-05-22 01:28:00,Taken,No,Confirmed,28.0,41,9.0
+P-005,25,Male,Infection,Amoxicillin,Antibiotic,Capsule,203 mg,PRN,-,176,2023-05-15 03:59:00,Taken,No,Confirmed,26.6,60,18.9
+P-019,37,Male,Hypertension,Lisinopril,Antihypertensive,Tablet,466 mg,2x sehari,"Pagi, Malam",11,2023-05-03 02:59:00,Not Taken,Yes,Dismissed,29.3,40,15.2
+P-007,34,Male,Depression,Sertraline,Antidepressant,Capsule,310 mg,2x sehari,Malam,114,2023-05-18 02:45:00,Not Taken,Yes,Dismissed,29.4,58,11.7
+P-013,71,Male,Migraine,Sumatriptan,Antimigraine,Liquid,238 mg,PRN,-,103,2023-06-26 10:14:00,Not Taken,Yes,Dismissed,26.9,43,2.1
+P-014,52,Female,Hypertension,Lisinopril,Antihypertensive,Capsule,391 mg,2x sehari,"Pagi, Siang, Malam",122,2023-05-12 13:12:00,Not Taken,Yes,Confirmed,24.8,41,19.9
+P-001,69,Male,Hypertension,Lisinopril,Antihypertensive,Liquid,225 mg,2x sehari,"Pagi, Siang, Malam",154,2023-06-02 20:54:00,Taken,No,Confirmed,29.3,48,17.3
+P-004,41,Female,Diabetes,Metformin,Antidiabetic,Liquid,270 mg,PRN,-,60,2023-06-20 13:56:00,Taken,No,Confirmed,25.8,58,14.9
+P-013,71,Male,Heart Disease,Digoxin,Cardiac Glycoside,Tablet,415 mg,1x sehari,Siang,66,2023-06-05 02:23:00,Taken,No,Confirmed,24.1,49,7.7
+P-013,71,Male,Migraine,Sumatriptan,Antimigraine,Capsule,419 mg,3x sehari,"Pagi, Malam",169,2023-05-13 02:46:00,Taken,No,Confirmed,25.4,48,5.7
+P-009,39,Male,Asthma,Salbutamol,Bronchodilator,Capsule,54 mg,PRN,-,152,2023-06-27 21:04:00,Not Taken,Yes,Confirmed,26.4,44,4.6
+P-014,52,Female,Infection,Amoxicillin,Antibiotic,Tablet,494 mg,PRN,-,148,2023-05-16 00:24:00,Taken,No,Confirmed,26.6,58,3.0
+P-007,34,Male,Infection,Amoxicillin,Antibiotic,Liquid,80 mg,PRN,-,119,2023-06-06 08:20:00,Taken,No,Confirmed,24.5,53,16.7
+P-011,74,Male,Arthritis,Ibuprofen,Analgesic,Capsule,208 mg,3x sehari,Malam,18,2023-06-26 03:36:00,Not Taken,Yes,Confirmed,29.2,41,3.6
+P-003,88,Male,Depression,Sertraline,Antidepressant,Capsule,149 mg,3x sehari,"Pagi, Siang, Malam",73,2023-06-18 05:19:00,Taken,No,Confirmed,27.5,40,2.2
+P-009,39,Male,Heart Disease,Digoxin,Cardiac Glycoside,Tablet,328 mg,2x sehari,"Pagi, Malam",106,2023-05-11 16:47:00,Not Taken,Yes,Confirmed,28.5,50,8.9
+P-018,77,Female,Depression,Sertraline,Antidepressant,Tablet,257 mg,3x sehari,Malam,89,2023-05-14 19:13:00,Taken,No,Confirmed,28.4,59,19.0
+P-004,41,Female,Infection,Amoxicillin,Antibiotic,Liquid,197 mg,1x sehari,Malam,43,2023-05-17 03:04:00,Taken,No,Confirmed,25.6,60,13.2
+P-001,69,Male,Migraine,Sumatriptan,Antimigraine,Liquid,417 mg,2x sehari,Malam,87,2023-05-08 18:57:00,Not Taken,Yes,Confirmed,28.2,53,16.4
+P-003,88,Male,Depression,Sertraline,Antidepressant,Tablet,109 mg,3x sehari,Pagi,102,2023-06-15 07:35:00,Not Taken,Yes,Dismissed,25.0,51,18.1
+P-007,34,Male,Depression,Sertraline,Antidepressant,Capsule,125 mg,2x sehari,"Pagi, Malam",68,2023-05-09 09:41:00,Taken,No,Confirmed,26.2,42,5.4
+P-002,50,Female,Diabetes,Metformin,Antidiabetic,Capsule,55 mg,PRN,-,32,2023-06-10 10:36:00,Taken,No,Confirmed,24.6,55,6.1
+P-019,37,Male,Migraine,Sumatriptan,Antimigraine,Tablet,100 mg,2x sehari,Siang,44,2023-06-04 13:03:00,Not Taken,Yes,Confirmed,26.8,52,14.3
+P-013,71,Male,Depression,Sertraline,Antidepressant,Tablet,83 mg,2x sehari,"Pagi, Malam",45,2023-06-18 21:29:00,Not Taken,Yes,Dismissed,28.0,45,3.8
+P-015,70,Male,Diabetes,Metformin,Antidiabetic,Capsule,88 mg,PRN,-,154,2023-05-17 06:26:00,Not Taken,Yes,No Response,28.6,53,11.9
+P-019,37,Male,Depression,Sertraline,Antidepressant,Liquid,230 mg,1x sehari,Malam,96,2023-06-19 07:24:00,Not Taken,Yes,Confirmed,29.5,48,8.9
+P-011,74,Male,Migraine,Sumatriptan,Antimigraine,Liquid,336 mg,3x sehari,Siang,59,2023-06-30 15:15:00,Taken,No,Confirmed,26.4,53,2.3
+P-006,89,Female,Diabetes,Metformin,Antidiabetic,Tablet,49 mg,1x sehari,Malam,94,2023-06-16 03:26:00,Taken,No,Confirmed,28.7,59,5.1
+P-007,34,Male,Migraine,Sumatriptan,Antimigraine,Tablet,46 mg,1x sehari,Siang,100,2023-05-08 15:37:00,Not Taken,Yes,Confirmed,27.6,48,11.2
+P-008,72,Female,Diabetes,Metformin,Antidiabetic,Tablet,202 mg,1x sehari,"Pagi, Malam",124,2023-05-08 22:21:00,Not Taken,Yes,Confirmed,25.0,42,2.2
+P-012,81,Female,Diabetes,Metformin,Antidiabetic,Capsule,136 mg,1x sehari,Siang,76,2023-05-21 22:04:00,Not Taken,Yes,Confirmed,29.8,54,3.6
+P-011,74,Male,Asthma,Salbutamol,Bronchodilator,Tablet,166 mg,PRN,-,47,2023-06-18 09:37:00,Not Taken,Yes,Dismissed,24.9,40,20.0
+P-009,39,Male,Arthritis,Ibuprofen,Analgesic,Capsule,50 mg,2x sehari,"Pagi, Malam",21,2023-05-10 00:04:00,Taken,No,Confirmed,25.1,51,4.8
+P-001,69,Male,Asthma,Salbutamol,Bronchodilator,Liquid,479 mg,2x sehari,"Pagi, Malam",169,2023-05-29 00:57:00,Not Taken,Yes,No Response,29.4,50,7.2
