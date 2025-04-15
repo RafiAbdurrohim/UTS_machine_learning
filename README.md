@@ -41,5 +41,5 @@ Membantu sistem monitoring pengobatan pasien secara otomatis, terutama dalam men
 
 ## 📁 File
 - `KNN-classification.py` → kode utama
-- `generated_dataset.csv` → dataset yang digunakan
+- `dataset_medicion.csv` → dataset yang digunakan
 
