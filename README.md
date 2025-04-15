@@ -1,4 +1,4 @@
-# 📊 Prediksi Kepatuhan Minum Obat dengan Algoritma KNN
+# 📊 Klasifikasi Status Minum Obat Pasien dengan Algoritma KNN
 
 Project ini menggunakan algoritma **K-Nearest Neighbors (KNN)** untuk memprediksi apakah pasien sudah minum obat (**Taken**) atau belum (**Not Taken**) berdasarkan data medis dan lingkungan yang dikumpulkan dari sistem Smart Medication Dispenser.
 
