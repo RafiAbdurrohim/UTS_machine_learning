@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 from imblearn.over_sampling import SMOTE
 
 # === 1. Load Dataset ===
-df = pd.read_csv("generated_dataset.csv")  # Sesuaikan dengan nama dataset kamu
+df = pd.read_csv("dataset_medicion.csv.csv")  # Sesuaikan dengan nama dataset kamu
 df["prescribed_dose"] = df["prescribed_dose"].str.extract(r'(\d+)').astype(float)
 
 
